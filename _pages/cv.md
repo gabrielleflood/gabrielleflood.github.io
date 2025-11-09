@@ -2,7 +2,7 @@
 layout: page
 permalink: /cv/
 title: CV
-description: #Materials for courses you taught. Replace this text with your description.
+description: #Simple version of CV and contact
 nav: true
 nav_order: 7
 ---
