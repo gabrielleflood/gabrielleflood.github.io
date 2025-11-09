@@ -4,7 +4,7 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -398,16 +398,20 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-two-papers-accepted-to-scia-2025-and-one-paper-accepted-to-the-anti-uav-workshop-at-cvpr-2025",
+          title: 'Two papers accepted to SCIA 2025 and one paper accepted to the Anti-UAV...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-have-started-as-a-postdoctoral-researcher-together-with-zuzana-kúkelová-in-the-visual-recognition-group-vrg-at-czech-techinical-university-in-prague-ctu",
+          title: 'I have started as a postdoctoral researcher together with Zuzana Kúkelová in the...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-am-attending-cvpr-in-nashville-and-scia-in-reykjavik-this-month",
+          title: 'I am attending CVPR in Nashville and SCIA in Reykjavik this month.',
+          description: "",
+          section: "News",},{id: "news-i-am-co-organizing-the-camera-calibration-and-pose-estimation-calipose-workshop-at-iccv-2025",
+          title: 'I am co-organizing the Camera Calibration and Pose Estimation (CALIPOSE) Workshop at ICCV...',
+          description: "",
+          section: "News",},{id: "news-i-am-attending-iccv-2025-in-honolulu",
+          title: 'I am attending ICCV 2025 in Honolulu.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
