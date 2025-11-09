@@ -25,7 +25,7 @@ nav_order: 6
 - Computer vision
 - Machine learning.
 
-### PhD Student Supervision
+### PhD Student Supervision:
 **Co-supervisor** 
 - David Gillsjö (Feb 2022-Jun 2023). Thesis *Applications in Monocular Computer Vision using Geometry and Learning: Map Merging, 3D Reconstruction and Detection of Geometric Primitives* defended in June 2023.
 
@@ -34,8 +34,7 @@ nav_order: 6
 - *Semantic Analysis of Indoor Floor Plans for Creation of Navigation Graphs*, Tim Samuelsson, 2024 (at Combain Mobile)
 - *Enhancing the resolution of brain MRIs using deep learning*, Malo Gicquel 2024 (collaboration with SciLifeLab, LU)
 - *Scalable Gaussian Process Assisted Positioning Using Cell Fingerprinting*, David Bergh 2024  (at Combain Mobile)
-Ph.D. supervision:
-2022–2023
+
 **Co-supervisor**
 - *Rotation Averaging for Map Merging and Trajectory Alignment in Global Structure-from-Motion*, Elina Strömberg 2025
 - *Image Retrieval Re-ranking using Graph Neural Networks*, Gustav Hanning 2024
