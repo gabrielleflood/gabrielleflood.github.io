@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
+title: Teaching and Supervision
 description: #Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6
@@ -15,19 +15,20 @@ nav_order: 6
 ### Teaching assistant in:
 - Calculus in one variable
 - Calculus in several variables
-- Linear algebra.
+- Linear algebra
 - Matlab introduction
-- scientific programming in Matlab.
+- Scientific programming in Matlab
 - Mathematical modelling
-- Project course in applied mathematics.
+- Project course in applied mathematics
 - Image analysis
 - Medical image analysis
 - Computer vision
-- Machine learning.
+- Machine learning
 
 ### PhD Student Supervision:
 **Co-supervisor** 
-- David Gillsjö (Feb 2022-Jun 2023). Thesis *Applications in Monocular Computer Vision using Geometry and Learning: Map Merging, 3D Reconstruction and Detection of Geometric Primitives* defended in June 2023.
+- Petter Melander (since Feb 2026, co-supervised with Anders Heyden and Niels Christian Overgaard). 
+- David Gillsjö (Feb 2022-Jun 2023, co-supervised with Kalle Åström and Anders Heyden). Thesis *Applications in Monocular Computer Vision using Geometry and Learning: Map Merging, 3D Reconstruction and Detection of Geometric Primitives* defended in June 2023.
 
 ### Master's thesis supervision:
 **Main supervisor**
@@ -36,6 +37,7 @@ nav_order: 6
 - *Scalable Gaussian Process Assisted Positioning Using Cell Fingerprinting*, David Bergh 2024  (at Combain Mobile)
 
 **Co-supervisor**
+- *Improving performance and generalizability of MRI Super-Resolution models*, Shen Ruizhen (ongoing) (collaboration with CVML and SciLifeLab, LU)
 - *Rotation Averaging for Map Merging and Trajectory Alignment in Global Structure-from-Motion*, Elina Strömberg 2025
 - *Image Retrieval Re-ranking using Graph Neural Networks*, Gustav Hanning 2024
 - *Self-supervised representation learning from electrocardiogram data for medical applications*, Matilda Andersson 2023 (at Neko Health)
