@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-teaching",
-          title: "Teaching",
+        },{id: "nav-teaching-and-supervision",
+          title: "Teaching and Supervision",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -412,6 +412,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-i-am-attending-iccv-2025-in-honolulu",
           title: 'I am attending ICCV 2025 in Honolulu.',
+          description: "",
+          section: "News",},{id: "news-our-paper-inlier-maximization-for-robust-direction-of-arrival-estimation-in-ad-hoc-microphone-networks-got-accepted-for-eusipco-2026",
+          title: 'Our paper Inlier Maximization for Robust Direction-of-Arrival Estimation in Ad-hoc Microphone Networks got...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
