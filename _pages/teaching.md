@@ -37,7 +37,7 @@ nav_order: 6
 - *Scalable Gaussian Process Assisted Positioning Using Cell Fingerprinting*, David Bergh 2024  (at Combain Mobile)
 
 **Co-supervisor**
-- *Improving performance and generalizability of MRI Super-Resolution models*, Shen Ruizhen (ongoing) (collaboration with CVML and SciLifeLab, LU)
+- *Improving performance and generalizability of MRI Super-Resolution models*, Shen Ruizhen (collaboration with CVML and SciLifeLab, LU)
 - *Rotation Averaging for Map Merging and Trajectory Alignment in Global Structure-from-Motion*, Elina Strömberg 2025
 - *Image Retrieval Re-ranking using Graph Neural Networks*, Gustav Hanning 2024
 - *Self-supervised representation learning from electrocardiogram data for medical applications*, Matilda Andersson 2023 (at Neko Health)
